@@ -1,0 +1,15 @@
+/* Class = "UILabel"; text = "Address"; ObjectID = "Kh6-7U-AFH"; */
+"Kh6-7U-AFH.text" = "Ort";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "LFh-26-mGy"; */
+"LFh-26-mGy.text" = "Name";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "R1h-vT-bIT"; */
+"R1h-vT-bIT.text" = "Type";
+
+/* Class = "UINavigationItem"; title = "Discover"; ObjectID = "dFS-JV-hq3"; */
+"dFS-JV-hq3.title" = "Entdecken";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "hP8-yY-Lj7"; */
+"hP8-yY-Lj7.title" = "Entdecken";
+
